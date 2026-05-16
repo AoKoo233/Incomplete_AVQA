@@ -16,6 +16,10 @@ Tsinghua University<br>
 *Corresponding author<br>
 [![arXiv](https://img.shields.io/badge/arXiv-2510.18346-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2604.10695)
 
+</div>
+
+</div>
+
 ## :loudspeaker: News 
 
 - [05/2026] :fire: The code is released. Enjoy it!
