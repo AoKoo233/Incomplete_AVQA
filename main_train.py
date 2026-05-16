@@ -7,8 +7,8 @@ import json
 import numpy as np
 
 from dataloader import *
-from nets.PSTP_Net_Ours import PSTP_Net
-from configs.arguments_PSTP_Net import parser
+from nets.AVQA import R2SCP
+from configs.arguments_R2SCP import parser
 
 
 import warnings
@@ -170,7 +170,7 @@ def main():
     tensorboard_name = args.checkpoint
     writer = SummaryWriter('runs/strn/' + TIMESTAMP + '_' + tensorboard_name)
 
-    model = PSTP_Net(args)
+    model = R2SCP(args)
     model = nn.DataParallel(model).to('cuda')
 
 
