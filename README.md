@@ -25,3 +25,15 @@ Tsinghua University<br>
 - [05/2026] :fire: The code is released. Enjoy it!
 - [04/2026] :fire: [arXiv paper](https://arxiv.org/abs/2604.10695) released!
 - [04/2026] :fire: Our paper has been accepted by ACL'26 (Main)!
+
+
+## 📝 Citation
+
+```bib
+@article{zhang2026retrieving,
+  title={Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification},
+  author={Zhang, Jiayu and Ye, Shuo and Ye, Qilang and Song, Zihan and Huang, Jiajian and Yu, Zitong},
+  journal={arXiv preprint arXiv:2604.10695},
+  year={2026}
+}
+```
