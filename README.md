@@ -15,3 +15,9 @@ Nankai University<br>
 Tsinghua University<br>
 *Corresponding author<br>
 [![arXiv](https://img.shields.io/badge/arXiv-2510.18346-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2604.10695)
+
+## :loudspeaker: News 
+
+- [05/2026] :fire: The code is released. Enjoy it!
+- [04/2026] :fire: [arXiv paper](https://arxiv.org/abs/2604.10695) released!
+- [04/2026] :fire: Our paper has been accepted by ACL'26 (Main)!
