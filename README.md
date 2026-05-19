@@ -34,7 +34,7 @@ The comparison of traditional methods (top) and
 $R^2ScP$ (bottom):
 
 <div align="center">
-<img src='images/2026-05-19_193823_027.png' width='100%'>
+<img src='images/fig1-v3.png' width='100%'>
 </div>
 
 ## 📝 Citation
@@ -49,4 +49,4 @@ $R^2ScP$ (bottom):
 ```
 
 ## 🤗 Acknowledgement
-
+* Lots of code are inherited from [AV-Master](https://github.com/AoKoo233/AV-Master) and [MoMKE](https://github.com/wxxv/MoMKE). Thanks for all these great works.
