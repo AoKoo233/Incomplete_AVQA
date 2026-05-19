@@ -28,7 +28,14 @@ Tsinghua University<br>
 
 ## :bulb: Introduction 
 
-## 🛠️ Usage
+This is the github repository of *Retrieving to Recover: Towards Incomplete Audio-Visual Question
+Answering via Semantic-consistent Purification*. In this paper, we present $R^2ScP$, a framework that addresses missing modalities in AVQA by shifting from generative imputation to retrieval-based recovery. 
+The comparison of traditional methods (top) and
+$R^2ScP$ (bottom):
+
+<div align="center">
+<img src='images/2026-05-19_193823_027.png' width='100%'>
+</div>
 
 ## 📝 Citation
 
